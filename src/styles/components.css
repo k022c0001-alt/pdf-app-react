@@ -1,0 +1,16 @@
+.component {
+  /* Add your component styles here */
+  background-color: #f0f0f0;
+  padding: 16px;
+  border-radius: 4px;
+}
+
+.component h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.component p {
+  font-size: 16px;
+  color: #666;
+}
