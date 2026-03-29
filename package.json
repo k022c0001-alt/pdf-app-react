@@ -1,1 +1,18 @@
-{\n  "name": "pdf-app-react",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "dependencies": {\n    "react": "^18.0.0",\n    "react-dom": "^18.0.0",\n    "jspdf": "^2.3.1",\n    "html2canvas": "^1.4.1"\n  },\n  "devDependencies": {\n    "vite": "^2.0.0"\n  }\n}
+{
+  "name": "pdf-app-react",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "jspdf": "^2.3.1",
+    "html2canvas": "^1.4.1"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0"
+  }
+}
